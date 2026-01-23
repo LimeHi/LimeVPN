@@ -25,4 +25,4 @@ https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 ```
 Зеркало:
 ```text
-https://pastefy.app/T0j26QtX/raw
+https://pastebin.com/raw/5pKVyTTL
