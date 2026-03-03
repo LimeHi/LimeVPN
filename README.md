@@ -16,10 +16,14 @@
 
 ---
 
-## 📄 Ссылка на конфиг
+## 📄 Подписка LimeVPN
 
 Прямая ссылка (можно скопировать и вставить в клиент):
 
 ```text
-https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
+https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt?v=1
+```
+## 📄 Подписка LimeVPNPaser
+```text
+https://raw.githubusercontent.com/LimeHi/LimeVPNGenerator/main/Keys.txt?v=1`
 ```
