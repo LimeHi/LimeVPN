@@ -12,7 +12,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LimeVPNFREE)
 
-[![Copy Config](https://img.shields.io/badge/Copy-Config-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt)
+[![Copy Config](https://img.shields.io/badge/Copy-Config-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt?v=1)
 
 ---
 
