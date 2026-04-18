@@ -4,6 +4,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaW1lVlBORlJFRQ@sub.limevpn.lol:8443#-------
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@138.124.32.188:30047/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@138.124.32.188:30086/?type=grpc&encryption=none&flow=&serviceName=gprc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@95.85.248.67:30047/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%201
-vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@217.60.61.178:30086/?type=grpc&encryption=none&flow=&serviceName=gprc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%202
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@95.85.248.65:30086/?type=grpc&encryption=none&flow=&serviceName=gprc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%202
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@217.60.61.178:30047/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%201
+vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@217.60.61.178:30086/?type=grpc&encryption=none&flow=&serviceName=gprc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%202
