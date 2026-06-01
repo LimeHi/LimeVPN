@@ -1,29 +1,30 @@
-# 🍋 Lime VPN
+# 🔒 LimeVPN — Free Configs
 
-![Lime VPN](https://img.shields.io/badge/Lime-VPN-brightgreen?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+> Обновлено: **2026-06-01 08:12 UTC**
 
-🚀 **Lime VPN** — это список актуальных VPN / прокси конфигураций,  
-которые помогают обходить блокировки и глушилок интернета. Lime VPN обеспечивают стабильное соединение.
+## 📊 Статистика
+
+| Всего | VMess | VLESS | Trojan | Shadowsocks | Hysteria2 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 100 | 0 | 100 | 0 | 0 | 0 |
+
+## 📥 Ссылка для подписки
+
+```
+https://raw.githubusercontent.com/LimeHi/LimeVPN/main/LimeVPN.txt
+```
+
+Вставь эту ссылку в клиент (v2rayNG, Hiddify, Shadowrocket и др.)
+
+> ⚠️ Если клиент не принимает plain text — попробуй скопировать конфиги вручную из файла.
+
+## 🛠 Совместимые клиенты
+
+- **Android**: v2rayNG, NekoBox
+- **iOS**: Shadowrocket, Streisand
+- **Windows**: v2rayN, Hiddify
+- **macOS**: FoXray, Hiddify
+- **Linux**: v2ray, Xray
 
 ---
-
-## 🔘 Полезные кнопки
-
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LimeVPNFREE)
-
-[![Copy Config](https://img.shields.io/badge/Copy-Config-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt?v=1)
-
----
-
-## 📄 Подписка LimeVPN
-
-Прямая ссылка (можно скопировать и вставить в клиент):
-
-```text
-https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt?v=1
-```
-## 📄 Подписка LimeVPNPaser
-```text
-https://raw.githubusercontent.com/LimeHi/LimeVPNGenerator/main/Keys.txt?v=1`
-```
+_Автоматически обновляется каждые 6 часов._
