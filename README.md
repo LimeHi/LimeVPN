@@ -1,6 +1,6 @@
 # 🔒 LimeVPN — Free Configs
 
-> Обновлено: **2026-08-30 12:14 UTC**
+> Обновлено: **2026-08-30 12:15 UTC**
 
 ## 📊 Статистика
 
@@ -11,7 +11,7 @@
 ## 📥 Ссылка для подписки
 
 ```
-https://raw.githubusercontent.com/LimeHi/LimeVPN/main/blacklist.txt
+https://raw.githubusercontent.com/LimeHi/LimeVPN/main/whitelist.txt
 ```
 
 Вставь эту ссылку в клиент (v2rayNG, Hiddify, Shadowrocket и др.)
