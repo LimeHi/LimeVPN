@@ -1,17 +1,17 @@
 # 🔒 LimeVPN — Free Configs
 
-> Обновлено: **2026-10-04 16:34 UTC**
+> Обновлено: **2026-10-04 16:40 UTC**
 
 ## 📊 Статистика
 
 | Всего | VMess | VLESS | Trojan | Shadowsocks | Hysteria2 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 78 | 1 | 77 | 0 | 0 | 0 |
+| 289 | 1 | 280 | 0 | 8 | 0 |
 
 ## 📥 Ссылка для подписки
 
 ```
-https://raw.githubusercontent.com/LimeHi/LimeVPN/main/blacklist.txt
+https://raw.githubusercontent.com/LimeHi/LimeVPN/main/whitelist.txt
 ```
 
 Вставь эту ссылку в клиент (v2rayNG, Hiddify, Shadowrocket и др.)
